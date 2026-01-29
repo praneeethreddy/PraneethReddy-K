@@ -57,6 +57,10 @@ I build **production-ready GenAI applications** centered around **RAG**, **backe
 ---
 
 ## 📫 Connect With Me
-GitHub: https://github.com/praneeethreddy | LinkedIn: https://www.linkedin.com/in/praneethkesarapu1906/
+GitHub: https://github.com/praneeethreddy 
+
+LinkedIn: https://www.linkedin.com/in/praneethkesarapu1906/
+
+Portfolio : https://praneethreddy.netlify.app
 
 - Actively seeking full-time and contract roles.
