@@ -1,4 +1,4 @@
-# Hi I'm Praneeth Kesarapu
+# Hi I'm Praneeth Reddy
 
 GenAI Engineer | Full Stack Developer | AI Systems Builder
 
