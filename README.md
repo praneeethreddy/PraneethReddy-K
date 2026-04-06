@@ -146,18 +146,6 @@ B --> PROTOCOL
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneethkesarapu1906&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethkesarapu1906&theme=radical" />
-</p>
-
----
-
 ## 🧩 Key Strengths
 
 - Building **end-to-end AI products**, not just models  
